@@ -10,7 +10,9 @@ const Contact = ({ data }) => {
 
   const handleClick = (e) => {
     e.preventDefault();
-    window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+    window.open(
+      `mailto:arkarmintun1@gmail.com?subject=${subject}&body=${name}: ${message}`
+    );
   };
 
   return (
