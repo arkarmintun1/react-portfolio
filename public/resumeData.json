@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Arkar Min Tun",
+    "occupation": "Android, Unity, Flutter and React Developer",
+    "description": "Passionsate about coding and making better softwares.",
+    "image": "profile.jpg",
+    "bio": "My name is Arkar. I'm cross-platform developer working with technologies like Unity, Flutter and React. Passionate about learning and creating stuffs.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "arkarmintun1@gmail.com",
+    "phone": "+95 9797 54 2156",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "77/79 Upper Pazundaung",
+      "city": "Yangon",
+      "state": "MM",
+      "zip": "11221"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.arkarmintun.com",
+    "resumedownload": "http://arkarmintun.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/arkarmintun",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/arkarmintun/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/arkarmintun1/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/arkarmintun1",
         "className": "fa fa-github"
       }
     ]
@@ -43,96 +43,120 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Myanmar Maritime University",
+        "degree": "B.Sc (Hons) in Nautical Science",
+        "graduated": "May 2018",
+        "description": "Graduated with Honors"
+      },
+      {
+        "school": "KMD Training Center",
+        "degree": "Diploma in Information Technology",
+        "graduated": "May 2012",
+        "description": "Graduated"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "360ed",
+        "title": "Android Developer",
+        "years": "December 2017 ~ July 2020",
+        "description": "Building Dat Thin Pone Applications"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "360ed",
+        "title": "Unity Developer",
+        "years": "December 2018 ~ July 2020",
+        "description": "Building Augmented Reality based educational applications"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Unity",
+        "level": "90%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Flutter",
+        "level": "70%"
       },
       {
-        "name": "Git",
+        "name": "Android (Kotlin)",
         "level": "60%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
       },
       {
         "name": "Figma && Adobe XD",
         "level": "55%"
       },
       {
-        "name": "HTML5",
+        "name": "Git",
         "level": "80%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Dat Thin Pone Chemistry",
+        "category": "Android based application built with Kotlin.",
+        "image": "dtp-chemistry.png",
+        "url": "https://play.google.com/store/apps/details?id=com.threesixtyed.datthinponechem"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Dat Thin Pone Biology",
+        "category": "Android based application built with Kotlin.",
+        "image": "dtp-biology.png",
+        "url": "https://play.google.com/store/apps/details?id=com.threesixtyed.datthinponebio"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Dat Thin Pone Physics",
+        "category": "Android based application built with Kotlin.",
+        "image": "dtp-physics.png",
+        "url": "https://play.google.com/store/apps/details?id=com.threesixtyed.datthinponephysics"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Grade One English",
+        "category": "Android based application built with Unity, C# and Vuforia.",
+        "image": "dtp-g1.png",
+        "url": "https://play.google.com/store/apps/details?id=com.threesixtyed.gradeoneenglish"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "360ed Universe",
+        "category": "Andriod based application built with Unity, C# and Vuforia.",
+        "image": "dtp-universe.png",
+        "url": "https://play.google.com/store/apps/details?id=com.threesixtyed.universe"
+      },
+      {
+        "title": "Seajobies",
+        "category": "Adroid based application built with Flutter.",
+        "image": "personal-seajobies.png",
+        "url": "https://play.google.com/store/apps/details?id=com.arkarmintun.seajobies"
+      },
+      {
+        "title": "Bagan",
+        "category": "Adroid based application built with Flutter.",
+        "image": "personal-bagan.png",
+        "url": "https://play.google.com/store/apps/details?id=com.arkarmintun.bagan_pagodas"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "COVID-19 Tracker built with ReactJS",
+        "image": "personal-covid19.png",
+        "url": "https://covid-19-tracker-46209.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Detail-oriented developer passionate about creating high quality applications.",
+        "user": "Chit Moe Wai"
       }
     ]
   }
