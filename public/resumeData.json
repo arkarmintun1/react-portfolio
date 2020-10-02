@@ -76,7 +76,7 @@
       },
       {
         "name": "Flutter",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "Android (Kotlin)",
@@ -87,16 +87,16 @@
         "level": "80%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Adobe XD",
         "level": "55%"
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "MongoDB",
-        "level": "60%"
+        "level": "80%"
       }
     ]
   },
@@ -149,6 +149,12 @@
         "category": "COVID-19 Tracker built with ReactJS",
         "image": "personal-covid19.png",
         "url": "https://covid-19-tracker-46209.web.app/"
+      },
+      {
+        "title": "Crown Shopping",
+        "category": "Crown Shopping built with ReactJS (For portfolio)",
+        "image": "personal-crownshopping.jpg",
+        "url": "https://crown-arkar-live.herokuapp.com/"
       }
     ]
   },
